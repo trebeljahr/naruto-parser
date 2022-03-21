@@ -1,0 +1,725 @@
+
+<html>
+
+<head>
+
+	<title>Welcome to Leafninja.com! Your Naruto Information Source.</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress 5.4.2" /> <!-- leave this for stats -->
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.leafninja.com/?feed=rss2" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.leafninja.com/?feed=rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.leafninja.com/?feed=atom" />
+	
+	<link rel="pingback" href="http://www.leafninja.com/xmlrpc.php" />
+        	<link rel='archives' title='April 2020' href='http://www.leafninja.com/?m=202004' />
+	<link rel='archives' title='September 2018' href='http://www.leafninja.com/?m=201809' />
+	<link rel='archives' title='July 2018' href='http://www.leafninja.com/?m=201807' />
+	<link rel='archives' title='June 2018' href='http://www.leafninja.com/?m=201806' />
+	<link rel='archives' title='May 2018' href='http://www.leafninja.com/?m=201805' />
+	<link rel='archives' title='March 2018' href='http://www.leafninja.com/?m=201803' />
+	<link rel='archives' title='January 2018' href='http://www.leafninja.com/?m=201801' />
+	<link rel='archives' title='December 2017' href='http://www.leafninja.com/?m=201712' />
+	<link rel='archives' title='November 2017' href='http://www.leafninja.com/?m=201711' />
+	<link rel='archives' title='October 2017' href='http://www.leafninja.com/?m=201710' />
+	<link rel='archives' title='September 2017' href='http://www.leafninja.com/?m=201709' />
+	<link rel='archives' title='August 2017' href='http://www.leafninja.com/?m=201708' />
+	<link rel='archives' title='July 2017' href='http://www.leafninja.com/?m=201707' />
+	<link rel='archives' title='June 2017' href='http://www.leafninja.com/?m=201706' />
+	<link rel='archives' title='May 2017' href='http://www.leafninja.com/?m=201705' />
+	<link rel='archives' title='April 2017' href='http://www.leafninja.com/?m=201704' />
+	<link rel='archives' title='March 2017' href='http://www.leafninja.com/?m=201703' />
+	<link rel='archives' title='February 2017' href='http://www.leafninja.com/?m=201702' />
+	<link rel='archives' title='January 2017' href='http://www.leafninja.com/?m=201701' />
+	<link rel='archives' title='December 2016' href='http://www.leafninja.com/?m=201612' />
+	<link rel='archives' title='November 2016' href='http://www.leafninja.com/?m=201611' />
+	<link rel='archives' title='October 2016' href='http://www.leafninja.com/?m=201610' />
+	<link rel='archives' title='September 2016' href='http://www.leafninja.com/?m=201609' />
+	<link rel='archives' title='August 2016' href='http://www.leafninja.com/?m=201608' />
+	<link rel='archives' title='July 2016' href='http://www.leafninja.com/?m=201607' />
+	<link rel='archives' title='June 2016' href='http://www.leafninja.com/?m=201606' />
+	<link rel='archives' title='May 2016' href='http://www.leafninja.com/?m=201605' />
+	<link rel='archives' title='April 2016' href='http://www.leafninja.com/?m=201604' />
+	<link rel='archives' title='March 2016' href='http://www.leafninja.com/?m=201603' />
+	<link rel='archives' title='February 2016' href='http://www.leafninja.com/?m=201602' />
+	<link rel='archives' title='January 2016' href='http://www.leafninja.com/?m=201601' />
+	<link rel='archives' title='December 2015' href='http://www.leafninja.com/?m=201512' />
+	<link rel='archives' title='November 2015' href='http://www.leafninja.com/?m=201511' />
+	<link rel='archives' title='October 2015' href='http://www.leafninja.com/?m=201510' />
+	<link rel='archives' title='September 2015' href='http://www.leafninja.com/?m=201509' />
+	<link rel='archives' title='August 2015' href='http://www.leafninja.com/?m=201508' />
+	<link rel='archives' title='July 2015' href='http://www.leafninja.com/?m=201507' />
+	<link rel='archives' title='June 2015' href='http://www.leafninja.com/?m=201506' />
+	<link rel='archives' title='May 2015' href='http://www.leafninja.com/?m=201505' />
+	<link rel='archives' title='April 2015' href='http://www.leafninja.com/?m=201504' />
+	<link rel='archives' title='March 2015' href='http://www.leafninja.com/?m=201503' />
+	<link rel='archives' title='February 2015' href='http://www.leafninja.com/?m=201502' />
+	<link rel='archives' title='January 2015' href='http://www.leafninja.com/?m=201501' />
+	<link rel='archives' title='December 2014' href='http://www.leafninja.com/?m=201412' />
+	<link rel='archives' title='November 2014' href='http://www.leafninja.com/?m=201411' />
+	<link rel='archives' title='October 2014' href='http://www.leafninja.com/?m=201410' />
+	<link rel='archives' title='September 2014' href='http://www.leafninja.com/?m=201409' />
+	<link rel='archives' title='August 2014' href='http://www.leafninja.com/?m=201408' />
+	<link rel='archives' title='July 2014' href='http://www.leafninja.com/?m=201407' />
+	<link rel='archives' title='June 2014' href='http://www.leafninja.com/?m=201406' />
+	<link rel='archives' title='May 2014' href='http://www.leafninja.com/?m=201405' />
+	<link rel='archives' title='April 2014' href='http://www.leafninja.com/?m=201404' />
+	<link rel='archives' title='March 2014' href='http://www.leafninja.com/?m=201403' />
+	<link rel='archives' title='February 2014' href='http://www.leafninja.com/?m=201402' />
+	<link rel='archives' title='January 2014' href='http://www.leafninja.com/?m=201401' />
+	<link rel='archives' title='December 2013' href='http://www.leafninja.com/?m=201312' />
+	<link rel='archives' title='November 2013' href='http://www.leafninja.com/?m=201311' />
+	<link rel='archives' title='October 2013' href='http://www.leafninja.com/?m=201310' />
+	<link rel='archives' title='September 2013' href='http://www.leafninja.com/?m=201309' />
+	<link rel='archives' title='August 2013' href='http://www.leafninja.com/?m=201308' />
+	<link rel='archives' title='July 2013' href='http://www.leafninja.com/?m=201307' />
+	<link rel='archives' title='June 2013' href='http://www.leafninja.com/?m=201306' />
+	<link rel='archives' title='May 2013' href='http://www.leafninja.com/?m=201305' />
+	<link rel='archives' title='April 2013' href='http://www.leafninja.com/?m=201304' />
+	<link rel='archives' title='March 2013' href='http://www.leafninja.com/?m=201303' />
+	<link rel='archives' title='February 2013' href='http://www.leafninja.com/?m=201302' />
+	<link rel='archives' title='January 2013' href='http://www.leafninja.com/?m=201301' />
+	<link rel='archives' title='December 2012' href='http://www.leafninja.com/?m=201212' />
+	<link rel='archives' title='November 2012' href='http://www.leafninja.com/?m=201211' />
+	<link rel='archives' title='October 2012' href='http://www.leafninja.com/?m=201210' />
+	<link rel='archives' title='September 2012' href='http://www.leafninja.com/?m=201209' />
+	<link rel='archives' title='August 2012' href='http://www.leafninja.com/?m=201208' />
+	<link rel='archives' title='July 2012' href='http://www.leafninja.com/?m=201207' />
+	<link rel='archives' title='June 2012' href='http://www.leafninja.com/?m=201206' />
+	<link rel='archives' title='May 2012' href='http://www.leafninja.com/?m=201205' />
+	<link rel='archives' title='April 2012' href='http://www.leafninja.com/?m=201204' />
+	<link rel='archives' title='March 2012' href='http://www.leafninja.com/?m=201203' />
+	<link rel='archives' title='February 2012' href='http://www.leafninja.com/?m=201202' />
+	<link rel='archives' title='January 2012' href='http://www.leafninja.com/?m=201201' />
+	<link rel='archives' title='December 2011' href='http://www.leafninja.com/?m=201112' />
+	<link rel='archives' title='November 2011' href='http://www.leafninja.com/?m=201111' />
+	<link rel='archives' title='October 2011' href='http://www.leafninja.com/?m=201110' />
+	<link rel='archives' title='September 2011' href='http://www.leafninja.com/?m=201109' />
+	<link rel='archives' title='August 2011' href='http://www.leafninja.com/?m=201108' />
+	<link rel='archives' title='July 2011' href='http://www.leafninja.com/?m=201107' />
+	<link rel='archives' title='June 2011' href='http://www.leafninja.com/?m=201106' />
+	<link rel='archives' title='May 2011' href='http://www.leafninja.com/?m=201105' />
+	<link rel='archives' title='April 2011' href='http://www.leafninja.com/?m=201104' />
+	<link rel='archives' title='March 2011' href='http://www.leafninja.com/?m=201103' />
+	<link rel='archives' title='February 2011' href='http://www.leafninja.com/?m=201102' />
+	<link rel='archives' title='January 2011' href='http://www.leafninja.com/?m=201101' />
+	<link rel='archives' title='December 2010' href='http://www.leafninja.com/?m=201012' />
+	<link rel='archives' title='November 2010' href='http://www.leafninja.com/?m=201011' />
+	<link rel='archives' title='October 2010' href='http://www.leafninja.com/?m=201010' />
+	<link rel='archives' title='September 2010' href='http://www.leafninja.com/?m=201009' />
+	<link rel='archives' title='August 2010' href='http://www.leafninja.com/?m=201008' />
+	<link rel='archives' title='July 2010' href='http://www.leafninja.com/?m=201007' />
+	<link rel='archives' title='June 2010' href='http://www.leafninja.com/?m=201006' />
+	<link rel='archives' title='May 2010' href='http://www.leafninja.com/?m=201005' />
+	<link rel='archives' title='April 2010' href='http://www.leafninja.com/?m=201004' />
+	<link rel='archives' title='March 2010' href='http://www.leafninja.com/?m=201003' />
+	<link rel='archives' title='February 2010' href='http://www.leafninja.com/?m=201002' />
+	<link rel='archives' title='January 2010' href='http://www.leafninja.com/?m=201001' />
+	<link rel='archives' title='December 2009' href='http://www.leafninja.com/?m=200912' />
+	<link rel='archives' title='November 2009' href='http://www.leafninja.com/?m=200911' />
+	<link rel='archives' title='October 2009' href='http://www.leafninja.com/?m=200910' />
+	<link rel='archives' title='September 2009' href='http://www.leafninja.com/?m=200909' />
+	<link rel='archives' title='August 2009' href='http://www.leafninja.com/?m=200908' />
+	<link rel='archives' title='July 2009' href='http://www.leafninja.com/?m=200907' />
+	<link rel='archives' title='June 2009' href='http://www.leafninja.com/?m=200906' />
+	<link rel='archives' title='May 2009' href='http://www.leafninja.com/?m=200905' />
+	<link rel='archives' title='April 2009' href='http://www.leafninja.com/?m=200904' />
+	<link rel='archives' title='March 2009' href='http://www.leafninja.com/?m=200903' />
+	<link rel='archives' title='February 2009' href='http://www.leafninja.com/?m=200902' />
+	<link rel='archives' title='January 2009' href='http://www.leafninja.com/?m=200901' />
+	<link rel='archives' title='December 2008' href='http://www.leafninja.com/?m=200812' />
+	<link rel='archives' title='November 2008' href='http://www.leafninja.com/?m=200811' />
+	<link rel='archives' title='October 2008' href='http://www.leafninja.com/?m=200810' />
+	<link rel='archives' title='September 2008' href='http://www.leafninja.com/?m=200809' />
+	<link rel='archives' title='August 2008' href='http://www.leafninja.com/?m=200808' />
+	<link rel='archives' title='July 2008' href='http://www.leafninja.com/?m=200807' />
+	<link rel='archives' title='June 2008' href='http://www.leafninja.com/?m=200806' />
+	<link rel='archives' title='May 2008' href='http://www.leafninja.com/?m=200805' />
+	<link rel='archives' title='April 2008' href='http://www.leafninja.com/?m=200804' />
+	<link rel='archives' title='March 2008' href='http://www.leafninja.com/?m=200803' />
+	<link rel='archives' title='February 2008' href='http://www.leafninja.com/?m=200802' />
+	<link rel='archives' title='January 2008' href='http://www.leafninja.com/?m=200801' />
+	<link rel='archives' title='December 2007' href='http://www.leafninja.com/?m=200712' />
+	<link rel='archives' title='November 2007' href='http://www.leafninja.com/?m=200711' />
+	<link rel='archives' title='October 2007' href='http://www.leafninja.com/?m=200710' />
+	<link rel='archives' title='September 2007' href='http://www.leafninja.com/?m=200709' />
+	<link rel='archives' title='August 2007' href='http://www.leafninja.com/?m=200708' />
+	<link rel='archives' title='July 2007' href='http://www.leafninja.com/?m=200707' />
+	<link rel='archives' title='June 2007' href='http://www.leafninja.com/?m=200706' />
+	<link rel='archives' title='May 2007' href='http://www.leafninja.com/?m=200705' />
+	<link rel='archives' title='April 2007' href='http://www.leafninja.com/?m=200704' />
+	<link rel='archives' title='March 2007' href='http://www.leafninja.com/?m=200703' />
+	<link rel='archives' title='February 2007' href='http://www.leafninja.com/?m=200702' />
+	<link rel='archives' title='January 2007' href='http://www.leafninja.com/?m=200701' />
+	<link rel='archives' title='December 2006' href='http://www.leafninja.com/?m=200612' />
+	<link rel='archives' title='November 2006' href='http://www.leafninja.com/?m=200611' />
+	<link rel='archives' title='October 2006' href='http://www.leafninja.com/?m=200610' />
+	<link rel='archives' title='September 2006' href='http://www.leafninja.com/?m=200609' />
+	<link rel='archives' title='August 2006' href='http://www.leafninja.com/?m=200608' />
+	<link rel='archives' title='July 2006' href='http://www.leafninja.com/?m=200607' />
+	<link rel='archives' title='June 2006' href='http://www.leafninja.com/?m=200606' />
+	<link rel='archives' title='May 2006' href='http://www.leafninja.com/?m=200605' />
+	<link rel='archives' title='April 2006' href='http://www.leafninja.com/?m=200604' />
+	<link rel='archives' title='March 2006' href='http://www.leafninja.com/?m=200603' />
+	<link rel='archives' title='February 2006' href='http://www.leafninja.com/?m=200602' />
+	<link rel='archives' title='January 2006' href='http://www.leafninja.com/?m=200601' />
+	<link rel='archives' title='December 2005' href='http://www.leafninja.com/?m=200512' />
+	<link rel='archives' title='November 2005' href='http://www.leafninja.com/?m=200511' />
+	<link rel='archives' title='October 2005' href='http://www.leafninja.com/?m=200510' />
+	<link rel='archives' title='September 2005' href='http://www.leafninja.com/?m=200509' />
+	<link rel='archives' title='August 2005' href='http://www.leafninja.com/?m=200508' />
+	<link rel='archives' title='July 2005' href='http://www.leafninja.com/?m=200507' />
+	<link rel='archives' title='June 2005' href='http://www.leafninja.com/?m=200506' />
+	<link rel='archives' title='May 2005' href='http://www.leafninja.com/?m=200505' />
+	<link rel='archives' title='April 2005' href='http://www.leafninja.com/?m=200504' />
+	<link rel='archives' title='March 2005' href='http://www.leafninja.com/?m=200503' />
+	<link rel='archives' title='February 2005' href='http://www.leafninja.com/?m=200502' />
+		<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Welcome to Leafninja.com! Your Naruto Information Source. &raquo; Feed" href="http://www.leafninja.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Welcome to Leafninja.com! Your Naruto Information Source. &raquo; Comments Feed" href="http://www.leafninja.com/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.leafninja.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.leafninja.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.leafninja.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.leafninja.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.leafninja.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	function openClose(id)
+	{
+		var obj = "";	
+
+		// Check browser compatibility
+		if(document.getElementById)
+			obj = document.getElementById(id).style;
+		else if(document.all)
+			obj = document.all[id];
+		else if(document.layers)
+			obj = document.layers[id];
+		else
+			return 1;
+			
+		// Do the magic :)
+		if(obj.display == "")
+			obj.display = "none";
+		else if(obj.display != "none")
+			obj.display = "none";
+		else
+			obj.display = "block";
+	}
+//-->
+</script>
+<META name="description" content="Vast news and information source for the Naruto anime and manga series">
+<META name="Keywords" content="naruto, naruto information, akatsuki, sasuke uchiha, uzumaki naruto, konoha, gaara, kimimaro, jiraiya, kakashi, orochimaru, tsunade, itachi, kisame, zetsu, deidara, sasori, neji, cursed seal, kyuubi, shukaku, bijuu, jinchuuriki, hokage, kazekage, raikage, tsuchikage, mizukage">
+
+<meta name="msapplication-task" content="name=LN Forum;action-uri=http://forum.leafninja.com/;icon-uri=http://www.leafninja.com/icon2.ico" />
+<meta name="msapplication-task" content="name=LN Biographies;action-uri=http://www.leafninja.com/biographies.php;icon-uri=http://www.leafninja.com/icon2.ico" />
+<meta name="msapplication-task" content="name=LN Manga Guide;action-uri=http://www.leafninja.com/manga-volumes.php;icon-uri=http://www.leafninja.com/icon2.ico" />
+<meta name="msapplication-task" content="name=LN World map;action-uri=http://www.leafninja.com/country.php;icon-uri=http://www.leafninja.com/icon2.ico" />
+
+
+<style type="text/css">
+
+P {font: 8pt, "Verdana"}
+
+a:active {  text-decoration: none; color: #000000}
+a:link {  text-decoration: none; color: #000000}
+a:visited {  text-decoration: none; color: #000000}
+a:hover {  text-decoration: underline; color: #666666}
+
+ ul {
+ font-family: Verdana;
+ font-size: 12px;
+ font-style: normal;
+ line-height: 2em;
+ font-weight: normal;
+ font-variant: normal;
+ text-transform: none;
+ color: #000000;
+ text-decoration: none;
+ background-color: #fff5ee;
+ text-indent: 0px;
+ list-style-position: outside;
+ list-style-type: none;
+ padding: 4px;
+ margin: 0px;
+ }
+
+</style>
+
+<link rel="shortcut icon" href="http://www.leafninja.com/icon.ico" type="image/x-icon" />
+</head>
+
+<body style="margin: 0" bgcolor="#fff5ee" TEXT="#000000" vlink="#000000" alink="#000000">
+<!-- BEGIN HEADER -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+   <td style="background-image:url('http://www.leafninja.net/topspan.jpg');background-repeat:repeat-x;"><img src="http://www.leafninja.net/title.jpg"></td>
+ </tr>
+</table>
+<!-- END HEADER -->
+
+<!-- BEGIN MAIN TABLE -->
+
+<table width="100%" style="height: 100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+   <td width="130"  style="background-image:url(backbar.gif)" valign="top">	
+<!-- BEGIN LEFT FRAME -->
+<!-- BEGIN LEFT NAV CONTENT -->
+
+<table width="130" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+   <td width="123" align="right">
+   <!-- BEGIN NAV CONTENT -->
+   <!-- MAIN -->
+   <font face="Verdana" size="1"><br><img src="spoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>General Info</b><br>
+   <a href="index.php">Front Page</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="intro.php">What is Naruto?</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="https://www.tapatalk.com/groups/leafninjaforums/">Message Board</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="mailto:thekonohaninja@yahoo.com">Contact Us</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="search.php">Search</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br><br>
+   
+   <!-- Content -->
+					
+   <b>Character Info</b><br>
+   <a href="biographies.php">Biographies</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="clans.php">Clan Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="groups.php">Groups &amp; Teams</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="summonings.php">Summonings</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="entities.php">Spirits &amp; Demons</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="familiars.php">Animal Familiars</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="seals.php">General Seal Guide</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>Jutsu Info</b><br>
+   <a href="chakra.php">Chakra Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="jutsu.php">Intro to Jutsu</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="hands.php">Hand Seals</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="kekkei.php">Blood Inheritance</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="fuuinjutsu.php">Fuuinjutsu</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="genjutsu.php">Genjutsu</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="ninjutsu.php">Ninjutsu</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="taijutsu-1.php">Taijutsu</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="skills.php">Other Skills</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="doujutsu.php">Doujutsu</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>In Depth</b><br>
+   <a href="parttwo.php">Time Skip Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="akatsuki.php">Akatsuki Org.</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="connections.php">Connections Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="cursed-seals.php">Cursed Seal Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="jinchuuriki.php">Jinchuuriki Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="symbols.php">Markings Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="puppets.php">Puppet Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="hyuuga.php">Hyuuga Clan</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="uchiha.php">Uchiha Clan</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>World Info</b><br>
+   <a href="ninja-positions.php">Ninja Positions</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="ranks.php">Ninja Ranks</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="kage.php">Kage Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="mission.php">Mission Guide</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="country.php">World Map</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>Ninja Gear</b><br>
+   <a href="clothing.php">Clothing</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="tools.php">Tools &amp; Equipment</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="weapons.php">Weapons</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="personal-weapons.php">Custom Weapons</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="accessories.php">Accessories</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>Series Info</b><br>
+   <a href="pilot.php">Manga Pilot</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="canon.php">Canon Guide</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="manga-volumes.php">Manga Guide</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="anime-1.php">Naruto Anime</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="shippuuden-1.php">Shippuuden Anime</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="movie.php">Movie &amp; OAV Guide</a>&nbsp;<img src="http://www.leafninja.net/images/orangespoiler.gif" alt="spoiler" border="0"><br>
+   <a href="games.php">Game Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="books.php">Book Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="dvd-eng-1.php">DVD Guide</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="anime-cuts.php">Manga&#187;Anime Cuts</a>&nbsp;<img src="http://www.leafninja.net/images/redspoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <b>Official Links</b><br>
+   <u>Japanese Language</u><br>
+   <a href="http://naruto.com/j/" target="_new">Official Website</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="http://www.naruto-movie.com" target="_new">Movie Website</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="http://www.tv-tokyo.co.jp/anime/naruto/" target="_new">TV Tokyo - Naruto</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="http://www.tv-tokyo.co.jp/anime/boruto/" target="_new">TV Tokyo - Boruto</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br><br>
+
+   <u>English Language</u><br>
+   <a href="http://shonenjump.viz.com/naruto" target="_new">SJump - Naruto</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="http://shonenjump.viz.com/boruto" target="_new">SJump - Boruto</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br>
+   <a href="http://www.viz.com/" target="_new">Viz Comics</a>&nbsp;<img src="http://www.leafninja.net/images/greenspoiler.gif" alt="spoiler" border="0"><br><br>
+
+
+<br><br>
+
+   </td>
+   <td width="6"><!-- LEFT NAV RIGHT MARGIN - DO NOT ALTER --></td>
+ </tr>
+</table>
+<!-- END LEFT NAV CONTENT -->
+
+ </td>
+
+<!-- END LEFT FRAME -->
+
+
+<td width="16"><img src="invisi.gif" background="0"></td>
+<td width="100%" valign="top"><br>
+
+
+<!-- BEGIN PAGE CONTENT -->
+
+<table width="610" border="0" cellpadding="2" cellspacing="0">
+   <tr>
+     <td width="610" style="vertical-align: top;" rowspan="1" colspan="2"><font face="verdana" size="1"><b>What you will find here:</b> Our goal is to provide up to date Naruto news and a vast array of Naruto information. We hope to provide you with all this information without horribly spoiling you. We know there are viewers and Shonen Jump readers out there that would like to learn more about Naruto but not have their experience horribly ruined by all the big spoilers in the series. We hope to be able to provide you with the content in a safe manner but still provide exhaustive information on the subject if the reader desires. That is why we will provide "<i>Quick-Spoiler</i>" clickable areas that allow you to see expanded information on the person or topic.<br><br>
+
+<b>What you won't find here:</b> Unlike many Naruto sites, we will not be providing you with downloads of the episodes or the manga. The price that is involved in hosting such content is too prohibitive in the long run and the hosting of such content would open us to legal liability. However, we hope to provide summaries and information on all the episodes and manga and also provide you with a great community experience.<br><br></font></td>
+    </tr>
+
+ 
+      <tr><td style="vertical-align: top;" width="473"><font face="Verdana" size="2"><img src="http://www.leafninja.net/images/anime.gif" border="0"><br>
+
+<font face="verdana" size="1"><br>
+Jpn. Sundays <b>Boruto:</b> Latest Episode<br><br></font>
+
+
+<font face="Verdana" size="2"><img src="http://www.leafninja.net/images/newsfeed.gif" border="0">
+
+<ul>
+<li id="rss-6" class="widget widget_rss"><h2 class="widgettitle"><a class="rsswidget" href="http://news.google.com/news?q=naruto&#038;output=rss"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.leafninja.com/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://news.google.com/search?q=naruto&#038;hl=en-US&#038;gl=US&#038;ceid=US:en">Naruto News from Around the Web</a></h2><ul><li>An error has occurred, which probably means the feed is down. Try again later.</li></ul></li></ul>
+
+<font face="Verdana" size="2"><img src="http://www.leafninja.net/images/news.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2838"><a href="http://www.leafninja.com/?p=2838" rel="bookmark" title="Permanent Link: Anniversary + Updating!?">Anniversary + Updating!?</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 4:56 pm on <font face=verdana>4/27/2020</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Hey everyone, long time no see. April marks the 16(!?) year anniversary for the site. Yes, we were around before several other gigantic Naruto fan sites were even a thing. A &#8220;wiki&#8221; WTF is a &#8220;wiki&#8221;? Yes, had I to do it again, I would have jumped on that bandwagon right as the wiki popularity exploded. What can I say though, I like to have control over everything&#8230;</p>
+<p>IN ANY CASE, I haven&#8217;t really updated in years because of a lot of things. Job changes and general ennui about the series ending. If you don&#8217;t know what ennui means, look it up and think over if you ever experienced it before, hahah. My current plans for this summer are to finally finish out the manga chapter summaries (five years too late), as well as to update the site with some more Boruto series information.</p>
+<p>First on the plate though is a <a href="http://www.leafninja.com/canon.php"><strong>Series Canon Guide</strong></a>. As the series has grown over the years, I&#8217;ve seen lot of YouTube reactors (WTF, people reacting to Naruto on YouTube? Yes, we predate even YouTube&#8230;) talk about only following the canon stories. Well what is the Naruto canon? I&#8217;m going to try and sketch it out and build it out. For now, I&#8217;ve covered the &#8220;true&#8221; canon. Next up is to try and match up how the different anime series covers that material. As for the anime &#8220;manga canon coverage&#8221;, I also plan to highlight some of the worthy episodes that are still worth a watch on a full series viewing.</p>
+</p>
+
+                        <font size="1"><b><a href="http://www.leafninja.com/?p=2838#comments">3 kunai thrown &#187;</a></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2838"
+    dc:identifier="http://www.leafninja.com/?p=2838"
+    dc:title="Anniversary + Updating!?"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2838" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2796"><a href="http://www.leafninja.com/?p=2796" rel="bookmark" title="Permanent Link: Boruto Chapter 27 Released">Boruto Chapter 27 Released</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 1:33 pm on <font face=verdana>9/28/2018</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Boruto Chapter 27 has been released!<br />
+<center><!--SPOILER BEGIN--></p>
+<div onClick="openClose('B027Spoiler')" style="font-face: Verdana; font-weight:bold"><font size="1">Click For Boruto Chapter 027 Spoiler Preview:</font></div>
+<div id="B027Spoiler" style="display:none">Kawaki and Boruto are now living together, will they continue to butt heads or can Naruto show the boys a new path?&#8230;</p>
+<p><img src="images/news/BCh027Teaser.gif" border="0"/><br /><font size="1">Unsettled matters</font></div>
+<p><!--SPOILER END--></center></p>
+<p>You can view my comments and discuss this latest chapter in our forums! <strong><a href="https://www.tapatalk.com/groups/leafninjaforums/boruto-chapter-27-discussion-t8715.html">Click here</a></strong> to view the discussion! Caution, there are spoilers present! If you are a new user and have yet to register to post on the forum, <strong><a href="https://www.tapatalk.com/groups/leafninjaforums/ucp.php?mode=register&#038;sid=0708f3ae733c194d385e140839c80851">click here</a></strong>.</p>
+</p>
+
+                        <font size="1"><b><span>Comments Off<span class="screen-reader-text"> on Boruto Chapter 27 Released</span></span></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2796"
+    dc:identifier="http://www.leafninja.com/?p=2796"
+    dc:title="Boruto Chapter 27 Released"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2796" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2792"><a href="http://www.leafninja.com/?p=2792" rel="bookmark" title="Permanent Link: Boruto Chapter 26 Released">Boruto Chapter 26 Released</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 10:14 am on <font face=verdana>9/9/2018</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Boruto Chapter 26 has been released!<br />
+<center><!--SPOILER BEGIN--></p>
+<div onClick="openClose('B026Spoiler')" style="font-face: Verdana; font-weight:bold"><font size="1">Click For Boruto Chapter 026 Spoiler Preview:</font></div>
+<div id="B026Spoiler" style="display:none">Kawaki has been brought to Konoha, how will Naruto intervene to draw the boy to their side?&#8230;</p>
+<p><img src="images/news/BCh026Teaser.gif" border="0"/><br /><font size="1">Hospitality</font></div>
+<p><!--SPOILER END--></center></p>
+<p>You can view my comments and discuss this latest chapter in our forums! <strong><a href="http://forum.leafninja.com/topic/30288972/">Click here</a></strong> to view the discussion! Caution, there are spoilers present! If you are a new user and have yet to register to post on the forum, <strong><a href="http://forum.leafninja.com/register">click here</a></strong>.</p>
+</p>
+
+                        <font size="1"><b><span>Comments Off<span class="screen-reader-text"> on Boruto Chapter 26 Released</span></span></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2792"
+    dc:identifier="http://www.leafninja.com/?p=2792"
+    dc:title="Boruto Chapter 26 Released"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2792" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2789"><a href="http://www.leafninja.com/?p=2789" rel="bookmark" title="Permanent Link: Boruto Chapter 25 Released">Boruto Chapter 25 Released</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 7:38 am on <font face=verdana>7/25/2018</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Boruto Chapter 25 has been released!<br />
+<center><!--SPOILER BEGIN--></p>
+<div onClick="openClose('B025Spoiler')" style="font-face: Verdana; font-weight:bold"><font size="1">Click For Boruto Chapter 025 Spoiler Preview:</font></div>
+<div id="B025Spoiler" style="display:none">Kawaki wields a strange power which Kara wants to exploit. Will Boruto find some way to save the boy he is connected to?&#8230;</p>
+<p><img src="images/news/BCh025Teaser.gif" border="0"/><br /><font size="1">Kawaki Attacks</font></div>
+<p><!--SPOILER END--></center></p>
+<p>You can view my comments and discuss this latest chapter in our forums! <strong><a href="http://forum.leafninja.com/topic/30274648">Click here</a></strong> to view the discussion! Caution, there are spoilers present! If you are a new user and have yet to register to post on the forum, <strong><a href="http://forum.leafninja.com/register">click here</a></strong>.</p>
+</p>
+
+                        <font size="1"><b><span>Comments Off<span class="screen-reader-text"> on Boruto Chapter 25 Released</span></span></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2789"
+    dc:identifier="http://www.leafninja.com/?p=2789"
+    dc:title="Boruto Chapter 25 Released"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2789" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2786"><a href="http://www.leafninja.com/?p=2786" rel="bookmark" title="Permanent Link: Boruto Chapter 24 Released">Boruto Chapter 24 Released</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 8:03 am on <font face=verdana>6/7/2018</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Boruto Chapter 24 has been released!<br />
+<center><!--SPOILER BEGIN--></p>
+<div onClick="openClose('B024Spoiler')" style="font-face: Verdana; font-weight:bold"><font size="1">Click For Boruto Chapter 024 Spoiler Preview:</font></div>
+<div id="B024Spoiler" style="display:none">As Kara continues to plot, the young boy their plans focus on begins to make moves of his own&#8230;</p>
+<p><img src="images/news/BCh024Teaser.gif" border="0"/><br /><font size="1">Awakened power</font></div>
+<p><!--SPOILER END--></center></p>
+<p>You can view my comments and discuss this latest chapter in our forums! <strong><a href="http://forum.leafninja.com/topic/30253291/">Click here</a></strong> to view the discussion! Caution, there are spoilers present! If you are a new user and have yet to register to post on the forum, <strong><a href="http://forum.leafninja.com/register">click here</a></strong>.</p>
+</p>
+
+                        <font size="1"><b><span>Comments Off<span class="screen-reader-text"> on Boruto Chapter 24 Released</span></span></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2786"
+    dc:identifier="http://www.leafninja.com/?p=2786"
+    dc:title="Boruto Chapter 24 Released"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2786" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+
+	 <b><font face="verdana" size="2" class="post" id="post-2783"><a href="http://www.leafninja.com/?p=2783" rel="bookmark" title="Permanent Link: Boruto Chapter 23 Released">Boruto Chapter 23 Released</a></font></b>
+	<br><font size="1">Posted by: <b>Shikamaru</b> @ 9:10 am on <font face=verdana>5/11/2018</font> </font>
+	
+
+		<p style="font: 10pt Verdana;"><p>Boruto Chapter 23 has been released!<br />
+<center><!--SPOILER BEGIN--></p>
+<div onClick="openClose('B023Spoiler')" style="font-face: Verdana; font-weight:bold"><font size="1">Click For Boruto Chapter 023 Spoiler Preview:</font></div>
+<div id="B023Spoiler" style="display:none">Team Konohamaru are being challenged by Koji, will the mysterious Kara member prove too much to handle?&#8230;</p>
+<p><img src="images/news/BCh023Teaser.gif" border="0"/><br /><font size="1">Skills or tricks?</font></div>
+<p><!--SPOILER END--></center></p>
+<p>You can view my comments and discuss this latest chapter in our forums! <strong><a href="http://forum.leafninja.com/topic/30241747/">Click here</a></strong> to view the discussion! Caution, there are spoilers present! If you are a new user and have yet to register to post on the forum, <strong><a href="http://forum.leafninja.com/register">click here</a></strong>.</p>
+</p>
+
+                        <font size="1"><b><a href="http://www.leafninja.com/?p=2783#comments">1 kunai thrown &#187;</a></b></font>
+
+	
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.leafninja.com/?p=2783"
+    dc:identifier="http://www.leafninja.com/?p=2783"
+    dc:title="Boruto Chapter 23 Released"
+    trackback:ping="http://www.leafninja.com/wp-trackback.php?p=2783" />
+</rdf:RDF>	-->
+
+<br><img src="http://www.leafninja.net/images/bar.gif" border="0">
+
+
+
+<font face="verdana" size="1"><b><a href="http://www.leafninja.com/http://www.leafninja.net/images/information/Nan.jpg?paged=2" >Next Page &raquo;</a></b><br><br></font>
+
+
+
+<img src="http://www.leafninja.net/images/search.gif" border="0">
+
+<form method="get" id="searchform" action="/index.php">
+<div><input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form>
+<b>News Archives:</b>
+<a href="http://www.leafninja.com/?m=2020 ">2020</a>
+<a href="http://www.leafninja.com/?m=2019 ">2019</a>
+<a href="http://www.leafninja.com/?m=2018 ">2018</a>
+<a href="http://www.leafninja.com/?m=2017 ">2017</a>
+<a href="http://www.leafninja.com/?m=2016 ">2016</a>
+<a href="http://www.leafninja.com/?m=2015 ">2015</a>
+<a href="http://www.leafninja.com/?m=2014 ">2014</a>
+<a href="http://www.leafninja.com/?m=2013 ">2013</a>
+<a href="http://www.leafninja.com/?m=2012 ">2012</a>
+<a href="http://www.leafninja.com/?m=2011 ">2011</a>
+<a href="http://www.leafninja.com/?m=2010 ">2010</a>
+<a href="http://www.leafninja.com/?m=2009 ">2009</a>
+<a href="http://www.leafninja.com/?m=2008 ">2008</a>
+<a href="http://www.leafninja.com/?m=2007 ">2007</a>
+<a href="http://www.leafninja.com/?m=2006 ">2006</a>
+<a href="http://www.leafninja.com/?m=2005 ">2005</a>
+	
+
+<p class="credit"><!--39 queries. 0.508 seconds. --> <cite>Powered by <a href='http://wordpress.org' title='Powered by WordPress, state-of-the-art semantic personal publishing platform'><strong>WordPress</strong></a></cite></p>
+
+</font></td>
+     <td width="137" style="vertical-align: top;" colspan="1" rowspan="4">
+
+<img src="http://www.leafninja.net/images/summary.gif" border="0"><br>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0"><tr><td><a href="volume-71.php"><img src="images/volume/NSPA.gif" border="0" width="133"></a></td></tr></table>
+<center><font size="1" face="verdana"><b>Chapter 684 (Spoilers)</b></font></center></b><br><br>
+
+         <table border="1" cellpadding="2" cellspacing="0" width="100%">
+
+         <tr><td align="center" bgcolor="#8AB275"><font size="2" face="verdana"><b>New & Updated</b></font><br></td></tr>
+             <tr><td><font face="verdana" size="1"><b><br>-<br><br></b></font></td></tr></table><br><br>
+
+
+         <center><img src="http://www.leafninja.net/images/dates.gif" border="0"><br></center>
+         <table border="1" cellpadding="2" cellspacing="0" width="100%">
+
+         <tr><td align="center" bgcolor="#8AB275"><font size="2" face="verdana"><b>Boruto Anime</b></font><br></td></tr>
+             <tr><td><font face="verdana" size="1"><b><br>New Jpn. Ep. Airdate<br>
+             - Sundays<br>- on TV Tokyo<br><br>
+             - Latest subbed eps<br><a href="http://www.crunchyroll.com/boruto-naruto-next-generations" target="_new">- Crunchyroll</a><br><br></b></font></td></tr>
+
+
+
+         <tr><td align="center" bgcolor="#8AB275"><font size="2" face="verdana"><b>DVD & Blu-Rays</b><br></font></td></td>
+
+             <tr><td><font face="verdana" size="1"><b><br>Boruto Nxt Gen. Set 2<br>
+             - DVD/BR ~ Ep. 27-39<br>
+             - 04/04/2017<br><br></b></font></td></tr>
+
+
+         <tr><td align="center" bgcolor="#8AB275"><font size="2" face="verdana"><b>Books</b><br></font></td></td>
+
+             <tr><td><font face="verdana" size="1"><b><br>Boruto Vol. 7<br>
+             - 11/05/2019<br>
+
+	      <font face="verdana" size="1"><b><br>Boruto Vol. 8<br>
+             - 04/07/2020<br><br></b></font></td></tr></table><br><br></table><br><br>
+
+
+<hr><a href="http://www.leafninja.com/wp-rss.php"><img src="http://www.leafninja.net/images/rss.gif" border="0"></a><br><font face="Verdana" size="1">Right click and copy for our RSS News Feed! Use your compliant browser or RSS reader for daily  updates!<br><br><br><br></font>
+
+
+<center><script type="text/javascript"><!--
+google_ad_client = "pub-6940363505576741";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text";
+//2006-11-01: Front Page
+google_ad_channel = "4453671253";
+google_color_border = "8AB275";
+google_color_bg = "FFF5EE";
+google_color_link = "000000";
+google_color_text = "000000";
+google_color_url = "8AB275";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br></center>
+
+
+
+    </td>
+  </tr>
+
+</table>
+
+<img src="http://www.leafninja.net/images/longbar.gif" border="0"><br>
+
+<table>
+   <tr>
+     <td width="610" style="vertical-align: top;" rowspan="1" colspan="2">
+
+
+
+     </td>
+   </tr>
+</table>
+
+
+<br><br>
+<!-- END PAGE CONTENT -->
+
+
+</td>
+</tr>
+</table>
+
+
+</BODY>
+</HTML>
